@@ -14,3 +14,8 @@ with col2:
     first portfolio to show off what I learned in this Python Course.
     """
     st.info(content)
+
+content2 = """
+Below you can find some of the apps I have built in Python. Feel free to reach out to me if you have any questions!
+"""
+st.write(content2)
